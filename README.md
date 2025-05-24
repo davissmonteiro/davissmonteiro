@@ -49,14 +49,3 @@ Conclusão prevista: **maio/2025**
 | **Ferramentas**   | Git, GitHub(intermediário), IntelliJ, VS Code(intermediário)             |
 |                   | SonarQube(básico), Docker(básico), AWS(básico), DBeaver(básico), Jira  |
 | **Conceitos**     | POO, MVC, Scrum, Versionamento com Git, DDD, Microsserviços, REST APIs  |
-
----
-
-## 🔗 Links Importantes
-
-- [Currículo Completo (PDF)](Davi_Salustiano_Santos_Monteiro_Currículo.pdf)
-- [LinkedIn](https://www.linkedin.com/in/seu-link )
-- [GitHub](https://github.com/davissmonteiro )
-
-> *"Busco sempre aprender, melhorar e construir soluções funcionais e bem escritas."*  
-> — Davi Monteiro
